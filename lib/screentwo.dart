@@ -42,7 +42,7 @@ class ScreenTwo extends StatelessWidget {
                         ),
                       ],
                     ),
-                    child: Icon(Icons.arrow_back_rounded, color: Colors.grey),
+                    child: Icon(Icons.arrow_back_ios, color: Colors.grey),
                   ),
                   Container(
                     width: 70,
