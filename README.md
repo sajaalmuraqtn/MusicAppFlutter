@@ -26,8 +26,9 @@ SingleChildScrollView → Allows scrolling if the content exceeds the screen siz
 
 BoxDecoration & BoxShadow → Used for styling profile image and containers with shadows and rounded corners.
 
-## Design layout
+## Design 
+layout :
 ![Music App Design layout](assets/ScreenDesignLayout.png)
-## Final Result
+ Final Result :
 ![Music App Design layout](assets/ScreenTwo.png)
 
