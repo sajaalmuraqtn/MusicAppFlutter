@@ -139,10 +139,10 @@ class ScreenTwo extends StatelessWidget {
                       overlayColor: Colors.blueAccent.withOpacity(0.1),
                     ),
                     child: Slider(
-                      value: 107, // القيمة الحالية (بالثواني)
+                      value: 107,  
                       min: 0,
-                      max: 240, // المدة الكاملة 4 دقائق
-                      onChanged: (value) {}, // هنا ممكن تضيف تحكم بالتقدم
+                      max: 240, 
+                      onChanged: (value) {},  
                     ),
                   ),
                 ],
