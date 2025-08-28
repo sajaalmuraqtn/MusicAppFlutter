@@ -28,4 +28,6 @@ BoxDecoration & BoxShadow → Used for styling profile image and containers with
 
 ## Design layout
 ![Music App Design layout](assets/ScreenDesignLayout.png)
+## Final Result
+![Music App Design layout](assets/ScreenTwo.png)
 
